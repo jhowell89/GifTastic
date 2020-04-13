@@ -1,0 +1,53 @@
+@import url(https://fonts.googleapis.com/css?family=Bungee);
+@import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light);
+
+
+
+header {
+	
+	background-size: 100% 100%;
+	color: white;
+}
+.jumbotron{
+    background-color: rgb(10, 102, 102);
+}
+
+h1 {
+	font-size: 75px;
+    letter-spacing: 5px;
+    font-family: 'Bungee';
+    color: rgb(131, 38, 69);
+}
+
+.header-text {
+    font-size: 25px;
+    font-family: 'Shadows Into Light';
+}
+
+#userInput {
+	width: 300px;
+	font-size: 13px;
+	padding: 0px 10px;
+}
+
+.tv-input {
+	margin-top: 30px;
+}
+
+.btn {
+	margin: 0;
+	height: 30px;
+	font-size: 13px;
+	padding-top: 6px;
+}
+
+.btn-outline-secondary {
+	margin: 5px;
+}
+
+.gifDiv {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
